@@ -19,6 +19,7 @@ Providing Service
 - Helpers will have the ability to accept or decline to provide the service.
 
 Accepting Offer
+
     - Helper clicks accept service and inputs the amount they will charge and give an ETA.
     - This offer is then displayed to the user who will choose to accept or decline.
     - once user accepts the offer, the exact location and other details are shared to the service provider.
